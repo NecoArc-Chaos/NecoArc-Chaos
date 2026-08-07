@@ -6,3 +6,6 @@
 - 联系方式
 
 📫 acceleratoor0123@gmail.com
+
+正在听：
+![Spotify](https://sp.nachaos.xyz/?theme=dark&spin=true&scan=true&eq_color=rainbow)
