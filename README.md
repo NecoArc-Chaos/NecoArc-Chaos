@@ -2,6 +2,7 @@
 
 我是 Paulo Xiao，你也可以称呼我为NecoArcChaos  
 刚刚入门，现在只会Vibe Coding
+能看懂一点点HTML，会Markdown
 
 个人博客：https://nachaos.xyz  
 个人日记：https://memos.nachaos.xyz
